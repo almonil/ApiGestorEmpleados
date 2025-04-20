@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "Hash": "r8t3UkQlFhWNHXPcsBxPVsgfGvo45746PENM9GwsG80=",
-  "Source": "ApiGestorEmpleados",
-  "BasePath": "_content/ApiGestorEmpleados",
+  "Hash": "HsKCMfBfJnwDYPdWstfx39WvF01vEhyk1DjKAqgNFcs=",
+  "Source": "ApiGestorProductos",
+  "BasePath": "_content/ApiGestorProductos",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ApiGestorEmpleados\\wwwroot",
-      "Source": "ApiGestorEmpleados",
+      "Name": "ApiGestorProductos\\wwwroot",
+      "Source": "ApiGestorProductos",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (2).jfif",
-      "SourceId": "ApiGestorEmpleados",
+      "SourceId": "ApiGestorProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "RelativePath": "imagenes/images (2)#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -39,10 +39,10 @@
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (3).jfif",
-      "SourceId": "ApiGestorEmpleados",
+      "SourceId": "ApiGestorProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "RelativePath": "imagenes/images (3)#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -60,10 +60,10 @@
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (4).jfif",
-      "SourceId": "ApiGestorEmpleados",
+      "SourceId": "ApiGestorProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "RelativePath": "imagenes/images (4)#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -81,10 +81,10 @@
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (5).jfif",
-      "SourceId": "ApiGestorEmpleados",
+      "SourceId": "ApiGestorProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "RelativePath": "imagenes/images (5)#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -102,10 +102,10 @@
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (6).jfif",
-      "SourceId": "ApiGestorEmpleados",
+      "SourceId": "ApiGestorProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
-      "BasePath": "_content/ApiGestorEmpleados",
+      "BasePath": "_content/ApiGestorProductos",
       "RelativePath": "imagenes/images (6)#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -146,7 +146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:31:56 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -191,7 +191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:31:56 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -228,7 +228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:01 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -273,7 +273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:01 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -310,7 +310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:07 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -347,7 +347,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:07 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -392,7 +392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:12 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -437,7 +437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:12 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -474,7 +474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:20 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,7 +519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 00:32:20 GMT"
+          "Value": "Sun, 20 Apr 2025 01:22:15 GMT"
         },
         {
           "Name": "Cache-Control",

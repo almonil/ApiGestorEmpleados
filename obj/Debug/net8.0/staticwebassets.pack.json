@@ -21,24 +21,24 @@
       "PackagePath": "staticwebassets\\imagenes\\images (6).jfif"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiGestorEmpleados.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiGestorProductos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiGestorEmpleados.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiGestorProductos.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiGestorEmpleados.props",
-      "PackagePath": "build\\ApiGestorEmpleados.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiGestorProductos.props",
+      "PackagePath": "build\\ApiGestorProductos.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiGestorEmpleados.props",
-      "PackagePath": "buildMultiTargeting\\ApiGestorEmpleados.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiGestorProductos.props",
+      "PackagePath": "buildMultiTargeting\\ApiGestorProductos.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiGestorEmpleados.props",
-      "PackagePath": "buildTransitive\\ApiGestorEmpleados.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiGestorProductos.props",
+      "PackagePath": "buildTransitive\\ApiGestorProductos.props"
     }
   ],
   "ElementsToRemove": []

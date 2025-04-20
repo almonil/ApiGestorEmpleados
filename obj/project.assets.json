@@ -5141,9 +5141,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\ApiGestorEmpleados.csproj",
-      "projectName": "ApiGestorEmpleados",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\ApiGestorEmpleados.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\ApiGestorProductos.csproj",
+      "projectName": "ApiGestorProductos",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\ApiGestorProductos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\obj\\",
       "projectStyle": "PackageReference",

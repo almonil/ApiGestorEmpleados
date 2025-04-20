@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "r8t3UkQlFhWNHXPcsBxPVsgfGvo45746PENM9GwsG80=",
+  "Source": "ApiGestorEmpleados",
+  "BasePath": "_content/ApiGestorEmpleados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiGestorEmpleados\\wwwroot",
+      "Source": "ApiGestorEmpleados",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (2).jfif",
+      "SourceId": "ApiGestorEmpleados",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "RelativePath": "imagenes/images (2)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2xj4f1rb5x",
+      "Integrity": "1sBK/fbteZ8zfIHLe3F8zhxLGV1BYWz56B5iQqPEbxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\images (2).jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (3).jfif",
+      "SourceId": "ApiGestorEmpleados",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "RelativePath": "imagenes/images (3)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5b0951q7w1",
+      "Integrity": "0ZJg0xmBZMFRQcmdeuc2lC7cvP1o3ph+0Vo6lAFUQr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\images (3).jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (4).jfif",
+      "SourceId": "ApiGestorEmpleados",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "RelativePath": "imagenes/images (4)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lu2acmjhmm",
+      "Integrity": "E78MrETwFILo2WjleZF+pKmdNfmcAuLoUkLefZf9B8k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\images (4).jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (5).jfif",
+      "SourceId": "ApiGestorEmpleados",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "RelativePath": "imagenes/images (5)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwakj7dp2j",
+      "Integrity": "zgxK5Y4U7jL1/jD9bhiyJiLbFZRgfLVHP9GAYVGCqsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\images (5).jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (6).jfif",
+      "SourceId": "ApiGestorEmpleados",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\",
+      "BasePath": "_content/ApiGestorEmpleados",
+      "RelativePath": "imagenes/images (6)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8k697ad1r8",
+      "Integrity": "eGiBn/xxVBxXhl8HHZ8xzPTn5ho0xXdJ68ZILj57P00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\images (6).jfif"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagenes/images (2).2xj4f1rb5x.jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sBK/fbteZ8zfIHLe3F8zhxLGV1BYWz56B5iQqPEbxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2xj4f1rb5x"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/images (2).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1sBK/fbteZ8zfIHLe3F8zhxLGV1BYWz56B5iQqPEbxo="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (2).jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sBK/fbteZ8zfIHLe3F8zhxLGV1BYWz56B5iQqPEbxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1sBK/fbteZ8zfIHLe3F8zhxLGV1BYWz56B5iQqPEbxo="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (3).5b0951q7w1.jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (3).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZJg0xmBZMFRQcmdeuc2lC7cvP1o3ph+0Vo6lAFUQr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b0951q7w1"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/images (3).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZJg0xmBZMFRQcmdeuc2lC7cvP1o3ph+0Vo6lAFUQr4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (3).jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (3).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZJg0xmBZMFRQcmdeuc2lC7cvP1o3ph+0Vo6lAFUQr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZJg0xmBZMFRQcmdeuc2lC7cvP1o3ph+0Vo6lAFUQr4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (4).jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (4).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E78MrETwFILo2WjleZF+pKmdNfmcAuLoUkLefZf9B8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E78MrETwFILo2WjleZF+pKmdNfmcAuLoUkLefZf9B8k="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (4).lu2acmjhmm.jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (4).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E78MrETwFILo2WjleZF+pKmdNfmcAuLoUkLefZf9B8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lu2acmjhmm"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/images (4).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E78MrETwFILo2WjleZF+pKmdNfmcAuLoUkLefZf9B8k="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (5).iwakj7dp2j.jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (5).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgxK5Y4U7jL1/jD9bhiyJiLbFZRgfLVHP9GAYVGCqsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwakj7dp2j"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/images (5).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgxK5Y4U7jL1/jD9bhiyJiLbFZRgfLVHP9GAYVGCqsI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (5).jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (5).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgxK5Y4U7jL1/jD9bhiyJiLbFZRgfLVHP9GAYVGCqsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgxK5Y4U7jL1/jD9bhiyJiLbFZRgfLVHP9GAYVGCqsI="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (6).8k697ad1r8.jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (6).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGiBn/xxVBxXhl8HHZ8xzPTn5ho0xXdJ68ZILj57P00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8k697ad1r8"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/images (6).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eGiBn/xxVBxXhl8HHZ8xzPTn5ho0xXdJ68ZILj57P00="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/images (6).jfif",
+      "AssetFile": "C:\\Users\\Usuario\\source\\repos\\ApiGestorEmpleados\\ApiGestorEmpleados\\wwwroot\\imagenes\\images (6).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGiBn/xxVBxXhl8HHZ8xzPTn5ho0xXdJ68ZILj57P00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 00:32:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eGiBn/xxVBxXhl8HHZ8xzPTn5ho0xXdJ68ZILj57P00="
+        }
+      ]
+    }
+  ]
+}

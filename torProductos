@@ -1,0 +1,14 @@
+[33mcommit cf1b81c44d86744a941fa0104ea152048ef167a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sebastian Landinez <josebastianlandinez@hotmail.com>
+Date:   Sat Apr 19 20:14:17 2025 -0500
+
+    Creacion de clases y controladores de Productos E imagen producto
+    
+    
+     Please enter the commit message for your changes. Lines starting
+
+[33mcommit f485498fedf7a2f82855f2a914ec03a0cde80c2b[m
+Author: Sebastian Landinez <josebastianlandinez@hotmail.com>
+Date:   Sat Apr 19 09:50:20 2025 -0500
+
+    Primer commit - Proyecto .NET Web API Empleados

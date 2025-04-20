@@ -1,0 +1,39 @@
+.home-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin: 2rem auto;
+    max-width: 600px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-container h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .home-container p {
+    color: #666;
+    font-size: 1.1rem;
+  }
+  
+  .acciones {
+    margin-top: 2rem;
+  }
+  
+  .boton-navegar {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .boton-navegar:hover {
+    background-color: #0056b3;
+  }
+  

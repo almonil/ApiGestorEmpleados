@@ -1,0 +1,57 @@
+<h2>Gestión de Productos</h2>
+
+<form [formGroup]="productoForm" (ngSubmit)="guardar()">
+  <input type="hidden" formControlName="id">
+
+  <div>
+    <label>Nombre:</label>
+    <input type="text" formControlName="nombre">
+  </div>
+
+  <div>
+    <label>Descripción:</label>
+    <input type="text" formControlName="descripcion">
+  </div>
+
+  <div>
+    <label>Precio:</label>
+    <input type="number" formControlName="precio">
+  </div>
+
+  <div>
+    <label>Estado:</label>
+    <input type="checkbox" formControlName="estado"> Activo
+  </div>
+
+  <button type="submit">
+    {{ productoForm.value.id ? 'Actualizar' : 'Guardar' }}
+  </button>
+</form>
+
+<hr>
+
+<h3>Lista de Productos</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Descripción</th>
+      <th>Precio</th>
+      <th>Estado</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of productos">
+      <td>{{ p.nombre }}</td>
+      <td>{{ p.descripcion }}</td>
+      <td>{{ p.precio }}</td>
+      <td>{{ p.estado ? 'Activo' : 'Inactivo' }}</td>
+      <td>
+        <button (click)="editar(p)">Editar</button>
+        <button (click)="eliminar(p.id)">Eliminar</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+

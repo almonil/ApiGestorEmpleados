@@ -1,0 +1,31 @@
+.imagen-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .imagen-container img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .imagen-container button {
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .subida {
+    margin-top: 15px;
+  }
+  
+  .subida input[type="file"] {
+    margin-right: 10px;
+  }
+  

@@ -1,0 +1,24 @@
+<div *ngIf="productoId">
+
+    <h3>Imágenes del producto</h3>
+  
+    <!-- Listado de imágenes -->
+    <div *ngIf="imagenes.length > 0; else sinImagenes">
+      <div *ngFor="let imagen of imagenes" class="imagen-container">
+        <img [src]="obtenerUrlCompleta(imagen)" [alt]="imagen.nombre" />
+        <button (click)="eliminarImagen(imagen.id)">Eliminar</button>
+      </div>
+    </div>
+  
+    <ng-template #sinImagenes>
+      <p>No hay imágenes para este producto.</p>
+    </ng-template>
+  
+    <!-- Subida de nueva imagen -->
+    <div class="subida">
+      <input type="file" (change)="seleccionarArchivo($event)" />
+      <button (click)="subirImagen()" [disabled]="!archivoSeleccionado">Subir</button>
+    </div>
+  
+  </div>
+  
